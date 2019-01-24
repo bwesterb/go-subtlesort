@@ -4,7 +4,7 @@ go-subtlesort
 Constant-time sorting for Go with an interface similar to the standard library
 [sort package](https://golang.org/pkg/sort/).
 
-[Documentation is on godoc.](https://godoc.org/bwesterb/go-subtlesort)
+[Documentation is on godoc.](https://godoc.org/github.com/bwesterb/go-subtlesort)
 
 Currently, performance is 50% slower than buildin sort (for `[]int32`),
 but there is room for massive improvements.
